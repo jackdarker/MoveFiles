@@ -1,0 +1,1 @@
+MoveFiles /C /D7 /O3 "D:\temp\artists"
